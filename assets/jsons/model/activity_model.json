@@ -1,0 +1,51 @@
+[
+    {
+      "_id": "5b5b12396ec3c839ab718844",
+      "type": "puzzle",
+      "sub_type": "trivia",
+      "age_level": [
+        99
+      ],
+      "name": "A00041_04_Nutrients (Nutrients)",
+      "cover_page_img": "",
+      "question": "________ are classified into five groups.",
+      "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Nutrients"
+      ],
+      "answer": "Nutrients",
+      "qa_audio_url": "audio/AU002837.mp3",
+      "knowledge_id": [
+        "5af57bd56ec3c826b31065a7"
+      ],
+      "language": "English",
+      "syllabus_class": "",
+      "school": "",
+      "region": "",
+      "subject": "EVS",
+      "duration": 23,
+      "title": "Quiz",
+      "tags": "",
+      "file_size": 668.85,
+      "cover_page_image_data": {
+        "empty": true
+      },
+      "image_data": null,
+      "url_params": null,
+      "game": null,
+      "url": null,
+      "cover_page_img_base64": "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM001508_RS.png_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T113800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=5fb38d06d184b85314bd6ffa355ba423690b5abfbaddfa38d68d7c973b8c2ac7",
+      "image_base64": null,
+      "answer_base64": "https://toffeeride.s3.ap-south-1.amazonaws.com/Nutrients_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T113800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=69aa08dcf9013647f90f79a97996b8f82b2aeb4eadb78717d6d30a0fa033f60c",
+      "audio_base64": null,
+      "music_base64": null,
+      "word_audio_base64": null,
+      "qa_audio_url_base64": "https://toffeeride.s3.ap-south-1.amazonaws.com/audio/AU002837.mp3_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T113800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=8db26c38a53dfe0888de5241c47ccce956271c6a33cc5f6833f8d5128bf264a5",
+      "rhyme_bg_image_base64": null,
+      "rhyme_audio_url_base64": null,
+      "rhyme_images_base64": [],
+      "elements": [],
+      "pages": []
+    }
+  ]

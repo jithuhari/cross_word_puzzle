@@ -1,0 +1,4 @@
+#Wed Jan 12 17:01:15 IST 2022
+base.0=/home/nintriva/Desktop/word_search/word_search/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

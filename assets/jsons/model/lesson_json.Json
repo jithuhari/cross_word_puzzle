@@ -1,0 +1,94 @@
+[
+    {
+      "_id": "5b5afb716ec3c83af414d6af",
+      "type": "lesson",
+      "name": "A00041_01_Nutrients",
+      "age_level": [
+        99
+      ],
+      "cover_page_img": "",
+      "language": "English",
+      "syllabus_class": "",
+      "school": "",
+      "region": "",
+      "subject": "EVS",
+      "pages": [
+        {
+          "text": "",
+          "image1": "images/IM002448_RS.png",
+          "image2": "",
+          "image3": "",
+          "audio": "audio/AU002825.mp3",
+          "audio_duration": "",
+          "sequence": "",
+          "image_array_base64": [
+            "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM002448_RS.png_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211210%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211210T100212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=172254535377cac30d5619fc72aafd263e5e973c80359de574292434c2caee4e"
+          ],
+          "audio_base64": "https://toffeeride.s3.ap-south-1.amazonaws.com/audio/AU002825.mp3_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211210%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211210T100212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=0996eb07452399a3c2a18a0e9f4b8b9e580d642bc8a86451d780ddde68799199"
+        },
+        {
+          "text": "<span data-show=\"0.115323\" data-duration=\"5.107855\"><span data-begin=\"0.115323\" data-dur=\"0.192205\">Do \r\n</span><span data-begin=\"0.317139\" data-dur=\"0.168179\">you\r\n</span><span data-begin=\"0.485318\" data-dur=\"0.394021\">feel\r\n</span><span data-begin=\"0.879339\" data-dur=\"0.475708\">weak\r\n</span><span data-begin=\"1.417514\" data-dur=\"0.273893\">when\r\n</span><span data-begin=\"1.691407\" data-dur=\"0.110518\">you\r\n</span><span data-begin=\"1.801925\" data-dur=\"0.216231\">have\r\n</span><span data-begin=\"2.018156\" data-dur=\"0.446877\">skipped\r\n</span><span data-begin=\"2.465033\" data-dur=\"0.461293\">food\r\n</span><span data-begin=\"3.104116\" data-dur=\"0.139349\">or\r\n</span><span data-begin=\"3.219439\" data-dur=\"0.360385\">not\r\n</span><span data-begin=\"3.579824\" data-dur=\"0.269087\">had\r\n</span><span data-begin=\"3.868132\" data-dur=\"0.350775\">food\r\n</span><span data-begin=\"4.218907\" data-dur=\"0.249866\">for\r\n</span><span data-begin=\"4.463968\" data-dur=\"0.105713\">a\r\n</span><span data-begin=\"4.569681\" data-dur=\"0.461293\">long\r\n</span><span data-begin=\"5.030974\" data-dur=\"0.432462\">time?\r\n</span></span>",
+          "image1": "images/IM002690_RS.png",
+          "image2": "",
+          "image3": "",
+          "audio": "audio/AU002826.mp3",
+          "audio_duration": "",
+          "sequence": "",
+          "image_array_base64": [
+            "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM002690_RS.png_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211210%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211210T100212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=06f0348308b10534937668c47d4bc0b864451b477e5d6ee2c61a6b705a4bd0f5"
+          ],
+          "audio_base64": "https://toffeeride.s3.ap-south-1.amazonaws.com/audio/AU002826.mp3_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211210%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211210T100212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=23c4a3852f6af7affc9bae0c64d647e5d4e7f4219257929773c19476cbf98f9a"
+        },
+        {
+          "text": "<span data-show=\"0.000000\" data-duration=\"11.359007\"><span data-begin=\"0.000000\" data-dur=\"0.776684\">Yes, \r\n</span><span data-begin=\"1.067941\" data-dur=\"0.235779\">we \r\n</span><span data-begin=\"1.303720\" data-dur=\"0.42995\">feel \r\n</span><span data-begin=\"1.789147\" data-dur=\"0.471559\">weak \r\n</span><span data-begin=\"2.343922\" data-dur=\"0.374473\">when \r\n</span><span data-begin=\"2.718395\" data-dur=\"0.166432\">we \r\n</span><span data-begin=\"2.884827\" data-dur=\"0.194171\">have \r\n</span><span data-begin=\"3.078998\" data-dur=\"0.388342\">not \r\n</span><span data-begin=\"3.467340\" data-dur=\"0.253116\">had \r\n</span><span data-begin=\"3.720456\" data-dur=\"0.384875\">food \r\n</span><span data-begin=\"4.105331\" data-dur=\"0.277387\">for \r\n</span><span data-begin=\"4.382718\" data-dur=\"0.083216\">a \r\n</span><span data-begin=\"4.465934\" data-dur=\"0.398744\">long \r\n</span><span data-begin=\"4.871613\" data-dur=\"0.447287\">time.<br>This\r\n</span><span data-begin=\"7.056037\" data-dur=\"0.71774\">is because:<br>\r\n</span><span data-begin=\"9.032421\" data-dur=\"0.287789\">1. Food gives \r\n</span><span data-begin=\"9.320210\" data-dur=\"0.374473\">us \r\n</span><span data-begin=\"9.767497\" data-dur=\"0.603317\">energy<br> \r\n</span><span data-begin=\"11.404082\" data-dur=\"0.426482\">2. Food helps \r\n</span><span data-begin=\"11.830564\" data-dur=\"0.291257\">us \r\n</span><span data-begin=\"12.163429\" data-dur=\"0.10402\">to \r\n</span><span data-begin=\"12.267449\" data-dur=\"0.676132\">grow<br>\r\n</span><span data-begin=\"14.091270\" data-dur=\"0.450754\">3. Food helps \r\n</span><span data-begin=\"14.542024\" data-dur=\"0.364071\">us \r\n</span><span data-begin=\"14.944236\" data-dur=\"0.121357\">to \r\n</span><span data-begin=\"15.065593\" data-dur=\"0.530503\">fight \r\n</span><span data-begin=\"15.596096\" data-dur=\"0.891106\">diseases\r\n</span></span>",
+          "image1": "images/IM002691_RS.png",
+          "image2": "images/IM002161_RS.jpg",
+          "image3": "images/IM001975_RS.jpg",
+          "audio": "audio/AU002827.mp3",
+          "audio_duration": "",
+          "sequence": "",
+          "image_array_base64": [
+            "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM002691_RS.png_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211210%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211210T100212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=2b96ab5f0526906dc5dfd5dd926a8db7d71fcd6f7b6c63ad953a89ea30886aa1",
+            "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM002161_RS.jpg_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211210%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211210T100212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=28f16b341600801992b4acefbbf2119247c1600f25ba96b59b538c6d4026da3f",
+            "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM001975_RS.jpg_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211210%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211210T100212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=39779023ceb077e6e53b198eacfbac733c47d22bc563b54c94ec7ad4ed5a3b17"
+          ],
+          "audio_base64": "https://toffeeride.s3.ap-south-1.amazonaws.com/audio/AU002827.mp3_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211210%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211210T100212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=634899c6623b892dd5351f95ada86e0728e4dbed2baae46c3b5e809d5f59d561"
+        },
+        {
+          "text": "<span data-show=\"0.198649\" data-duration=\"9.764161\"><span data-begin=\"0.198649\" data-dur=\"0.100492\">To \r\n</span><span data-begin=\"0.299141\" data-dur=\"0.345883\">get \r\n</span><span data-begin=\"0.689427\" data-dur=\"0.193975\">the \r\n</span><span data-begin=\"0.883402\" data-dur=\"0.495453\">energy \r\n</span><span data-begin=\"1.378855\" data-dur=\"0.600619\">required \r\n</span><span data-begin=\"1.993497\" data-dur=\"0.1893\">for \r\n</span><span data-begin=\"2.182797\" data-dur=\"0.177615\">our \r\n</span><span data-begin=\"2.360412\" data-dur=\"0.49779\">body,\r\n</span><span data-begin=\"3.208758\" data-dur=\"0.198649\">we\r\n</span><span data-begin=\"3.407407\" data-dur=\"0.472082\">must \r\n</span><span data-begin=\"3.921556\" data-dur=\"0.294467\">eat \r\n</span><span data-begin=\"4.216023\" data-dur=\"0.149571\">a \r\n</span><span data-begin=\"4.365594\" data-dur=\"0.824976\">variety \r\n</span><span data-begin=\"5.192907\" data-dur=\"0.156582\">of \r\n</span><span data-begin=\"5.447645\" data-dur=\"0.626327\">healthy \r\n</span><span data-begin=\"6.073972\" data-dur=\"0.29213\">and \r\n</span><span data-begin=\"6.375450\" data-dur=\"0.47442\">balanced \r\n</span><span data-begin=\"6.859218\" data-dur=\"0.446375\">food \r\n</span><span data-begin=\"7.684194\" data-dur=\"0.287456\">that \r\n</span><span data-begin=\"7.988009\" data-dur=\"0.539857\">contain \r\n</span><span data-begin=\"8.527866\" data-dur=\"0.995579\">substances \r\n</span><span data-begin=\"9.626275\" data-dur=\"0.432353\">called \r\n</span><span data-begin=\"10.074987\" data-dur=\"0.97221\"><u>nutrients</u>.\r\n</span></span>",
+          "image1": "images/IM008532_RS.png",
+          "image2": "",
+          "image3": "",
+          "audio": "audio/AU002828.mp3",
+          "audio_duration": "",
+          "sequence": "",
+          "image_array_base64": [
+            "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM008532_RS.png_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211210%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211210T100212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=ac9c879d09efeff1dc1858651f0766d119aa649b815440faa95c6592a5b39e13"
+          ],
+          "audio_base64": "https://toffeeride.s3.ap-south-1.amazonaws.com/audio/AU002828.mp3_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211210%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211210T100212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=55ce6d9d5b122e2ca3cff6208e9dd8f1b3c11bf0d3db6915296507ddb59275d3"
+        }
+      ],
+      "duration": 35,
+      "title": "Lesson",
+      "sub_type": "",
+      "tags": "",
+      "file_size": 1995.2600000000002,
+      "cover_page_image_data": null,
+      "image_data": null,
+      "url_params": null,
+      "answer": null,
+      "game": null,
+      "url": null,
+      "cover_page_img_base64": null,
+      "image_base64": null,
+      "answer_base64": null,
+      "audio_base64": null,
+      "music_base64": null,
+      "word_audio_base64": null,
+      "qa_audio_url_base64": null,
+      "rhyme_bg_image_base64": null,
+      "rhyme_audio_url_base64": null,
+      "rhyme_images_base64": [],
+      "elements": []
+    }
+  ]
